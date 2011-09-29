@@ -15,6 +15,15 @@ p {
 	margin-bottom: 1em;
 }
 
+a {
+	color: #000;
+	background: #eee;
+	text-decoration: none;
+}
+a:hover {
+	background: #ddd;
+}
+
 .container {
 	width: 940px;
 	padding: 10px;
@@ -49,7 +58,6 @@ p {
 .post {
 	margin-bottom: 8em;
 }
-
 .post img {
 	width: 600px;
 }

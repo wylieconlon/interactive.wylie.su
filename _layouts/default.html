@@ -17,13 +17,14 @@
 
 <div class="container">
 	<div id="sidebar">
-	<h1>Hacking Interaction</h1>
+	<h1><a href="/">Hacking Interaction</a></h1>
 	
 	<p id="byline">by Wylie Conlon</p>
 	
 	<ul>
-		<li></li>
-		<li></li>
+		{% for tag in site.tags %}
+		<li><a href="/tags/{{ tag | first }}">{{ tag | first | capitalize }}</a></li>
+		{% endfor %}
 	</ul>
 	</div>
 	
