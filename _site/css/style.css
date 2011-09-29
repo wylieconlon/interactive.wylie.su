@@ -1,0 +1,55 @@
+body {
+	font: normal 16px/1.5 "Helvetica", sans-serif;
+}
+
+h1 {
+	font-size: 1.8em;
+	font-weight: bold;
+}
+h2 {
+	font-size: 1.4em;
+	margin-bottom: .5em;
+}
+
+p {
+	margin-bottom: 1em;
+}
+
+.container {
+	width: 940px;
+	padding: 10px;
+	
+	zoom:1; /*clearfix*/
+}
+.container:after {
+	/* Clearfix */
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+#sidebar, #content {
+	float: left;
+}
+#sidebar {
+	width: 300px;
+	margin-right: 40px;
+}
+#content {
+	width: 600px;
+}
+
+#byline {
+	color: #666;
+}
+
+.post {
+	margin-bottom: 8em;
+}
+
+.post img {
+	width: 600px;
+}
