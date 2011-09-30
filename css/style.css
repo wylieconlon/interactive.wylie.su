@@ -40,15 +40,14 @@ a:hover {
 	height: 0;
 }
 
-#sidebar, #content {
-	float: left;
-}
 #sidebar {
+	position: fixed;
 	width: 300px;
-	margin-right: 40px;
 }
 #content {
+	position: relative;
 	width: 600px;
+	left: 340px;
 }
 
 #byline {
