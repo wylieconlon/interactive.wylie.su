@@ -1,14 +1,11 @@
 ---
 layout: default
-title: Hacking Interaction
 ---
 
 <h2 class="category">{{ page.title }}</h2>
 <div id="posts">
 {% for post in site.tags[page.tag] %}
-	<div class="post">
-		{% capture body %}{{ post.content | markdownify }}{% endcapture %}
-		{% include post.html %}
-	</div>
+	{% capture body %}{{ post.content | markdownify }}{% endcapture %}
+	{% include post.html %}
 {% endfor %}
 </ul>

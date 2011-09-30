@@ -1,10 +1,6 @@
 ---
 layout: post
-post.title: Instrument
 tags: [projects]
----
-
-Kinect instrument
 ---
 
 Using the Kinect 3D camera sensor and an image processing library, we set out to create a harp-like instrument using hand gestures for input.

@@ -1,10 +1,7 @@
 ---
 layout: post
-post.title: Mail #3
+title: Paint mail
 tags: [mail]
----
-
-Paint mail
 ---
 
 Using the technique I discovered earlier, I made a letter to send to my partner.

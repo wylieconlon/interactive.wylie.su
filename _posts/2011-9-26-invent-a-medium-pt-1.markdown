@@ -1,10 +1,7 @@
 ---
 layout: post
-post.title: Invent a medium Pt. 1
+title: Invent a medium Pt. 1
 tags: [projects]
----
-
-Invent a medium pt. 1
 ---
 
 I set aside a couple hours to play with the fluid dynamics of paint, inspired by [Mike Cina](http://www.flickr.com/photos/mikecina/)'s similar experiments, particularly those with the marbling technique.

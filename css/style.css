@@ -57,6 +57,18 @@ a:hover {
 .post {
 	margin-bottom: 8em;
 }
+.post .top {
+	margin-bottom: 1em;
+}
+.post h2, .post .permalink {
+	display: inline;
+}
+.post .permalink {
+	color: #ccc;
+}
+.post .permalink:hover {
+	color: #000;
+}
 .post img {
 	width: 600px;
 }

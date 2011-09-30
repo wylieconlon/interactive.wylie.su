@@ -1,10 +1,6 @@
 ---
 layout: post
-post.title: Wooden letter
 tags: [mail]
----
-
-Wooden letter
 ---
 
 I wanted to send an unusual object in the mail. I carved the address into a letter-shaped piece of balsa wood, put a couple stamps on, and dropped it in a mailbox.

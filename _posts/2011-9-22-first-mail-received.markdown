@@ -1,10 +1,6 @@
 ---
 layout: post
-post.title: First mail received
 tags: [mail]
----
-
-First received mail
 ---
 
 I received my partner Austin's letter late, and opened it up. This is what I found:
