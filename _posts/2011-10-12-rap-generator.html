@@ -1,0 +1,23 @@
+---
+layout: post
+title: Rap generator
+tags: [projects]
+---
+
+<div id="rap_generator"></div>
+
+<style>
+#rap_generator {
+	position: relative;
+}
+
+canvas {
+	background-color: #333;
+	border: 1px solid #000;
+}
+</style>
+
+<script src="/scripts/terrible_rap_generator.js"></script>
+<script>
+terrible_rap_generator.init($('#rap_generator'), { test: true });
+</script>
