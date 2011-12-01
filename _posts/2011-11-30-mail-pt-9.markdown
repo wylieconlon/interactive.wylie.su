@@ -1,0 +1,13 @@
+---
+layout: post
+title: Fragile outside
+tags: [mail]
+date: 2011-11-2
+---
+
+This empty container is fragile.
+
+![Mail pt. 9](/images/mail-9-5.jpg)
+![Mail pt. 9](/images/mail-9-2.jpg)
+![Mail pt. 9](/images/mail-9-3.jpg)
+![Mail pt. 9](/images/mail-9-4.jpg)

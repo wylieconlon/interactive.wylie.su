@@ -1,0 +1,19 @@
+---
+layout: post
+title: Email
+tags: [mail]
+date: 2011-10-12 15:00:00
+---
+
+The email system is much less physical than the mail system, but it still has its quirks. One of them is how each email provider handles spam and security.
+
+I tried to send an infinitely-recursive zip file to my partner through Gmail, but it rejected my request.
+
+![Mail pt. 6](/images/mail-6-1.jpg)
+![Mail pt. 6](/images/mail-6-2.jpg)
+
+So instead I sent it through my personal account, which does no such filtering.
+
+![Mail pt. 6](/images/mail-6-3.jpg)
+
+Due to Google's spam filtering, I'm half expecting this email to end up in the spam folder.
