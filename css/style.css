@@ -50,6 +50,13 @@ a:hover {
 	left: 340px;
 }
 
+h1 a {
+	background: none;
+}
+h1 a:hover {
+	background: #none;
+}
+
 #byline {
 	color: #666;
 }
@@ -70,5 +77,14 @@ a:hover {
 	color: #000;
 }
 .post img {
-	width: 600px;
+	max-width: 600px;
+}
+.post blockquote {
+	border-left: 1px solid #ccc;
+	padding-left: 30px;
+}
+.post ul {
+	list-style-type: disc;
+	margin-left: 40px;
+	margin-bottom: 1em;
 }
