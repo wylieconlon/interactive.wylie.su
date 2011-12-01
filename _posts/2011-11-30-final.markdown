@@ -1,0 +1,8 @@
+---
+layout: post
+title: Yo Momma
+tags: [projects]
+date: 2011-11-30
+---
+
+Take a look at my [final project](http://yomomma.interactive.wylie.su) for this class if you'd like!
